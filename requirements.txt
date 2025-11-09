@@ -1,2 +1,2 @@
-pyyaml==5.3.1  # Known vulnerable version
+pyyaml==5.4  # Known vulnerable version
 
